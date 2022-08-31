@@ -12,12 +12,12 @@ const App = () => {
   const [tasks, setTasks] = useState([
     {
       id: "1",
-      title: "Aprender programação",
+      title: "Aprender Programação",
       completed: false,
     },
     {
       id: "2",
-      title: "Ler Livros",
+      title: "Praticar exercícios",
       completed: true,
     },
 

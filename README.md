@@ -2,4 +2,4 @@
 
 # Lista-de-tarefas
 
-Lista de tarefas simples utulizando REACT. 
+Lista de tarefas simples utilizando REACT. 

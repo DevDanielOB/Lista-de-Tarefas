@@ -4,4 +4,4 @@
 
 Lista de tarefas simples utilizando REACT. 
 
-Deploy: https://lnkd.in/dMuvAk7G
+Deploy: https://lista-tarefas-devdaniel.netlify.app/
